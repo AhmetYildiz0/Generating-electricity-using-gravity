@@ -5,9 +5,11 @@
 
 ## Önizleme
 
-- Tek bir G.E.G.
-- Multi G.E.G.
-- Elektrik motoru
+https://github.com/AhmetYildiz0/Generating-electricity-using-gravity/assets/76514989/e522691c-a4d8-4947-9345-540dff65f534
+
+https://github.com/AhmetYildiz0/Generating-electricity-using-gravity/assets/76514989/35c3e52c-2e83-4c04-89bc-c9378251eedc
+
+https://github.com/AhmetYildiz0/Generating-electricity-using-gravity/assets/76514989/c761d4f5-3066-476c-91c3-62d33293b9fc
 
 ## Parçalar
 ![Parçalar](./image_00002.png)
